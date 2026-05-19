@@ -8,7 +8,7 @@ on:
 
 env:
   # REEMPLAZA ESTO: Tu usuario de GitHub en minúsculas (ej. ghcr.io/juanperez/scout-demo)
-  IMAGE_NAME: ghcr.io/TU_USUARIO_GITHUB/scout-demo
+  IMAGE_NAME: ghcr.io/diego-col-un/practicaDevSecOps
 
 jobs:
   build-and-scan:
